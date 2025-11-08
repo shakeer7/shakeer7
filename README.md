@@ -1,4 +1,5 @@
-## Hi there 👋
+## # 👋 Hi, I'm Shakeer Mohammed!
+### 💡 Business Analyst | Azure System Administrator
 
 <!--
 **shakeer7/shakeer7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
