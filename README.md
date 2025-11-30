@@ -12,6 +12,7 @@
 
   MBA
  Chaitanya Bharathi Institute Of Technology, Hyderabad • Finance and Analytics • 2027
+ 
  B.Tech
  SR Engineering College, Warangal • EEE • 08/2019 06/2022 • 6.8
  
