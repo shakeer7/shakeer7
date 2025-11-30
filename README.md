@@ -6,7 +6,17 @@
  Aspiring Business Analyst with a solid foundation in data analysis, requirement gathering, and visualization tools, and Experienced Azure and
  Windows System Administrator specializing in managing hybrid cloud infrastructures and enterprise IT environments.Proficient in Azure
  services, Windows Server administration, automation.
+
  
+🎓 Education
+
+  MBA
+ Chaitanya Bharathi Institute Of Technology, Hyderabad • Finance and Analytics • 2027
+ B.Tech
+ SR Engineering College, Warangal • EEE • 08/2019 06/2022 • 6.8
+ 
+
+
 🛠️ Skills
 
 Cloud & Infrastructure Management: Azure,  Windows Server,  Active Directory, Azure Active Directory
