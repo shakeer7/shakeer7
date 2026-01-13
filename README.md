@@ -31,7 +31,7 @@ Methodologies: Agile, Waterfall.
 
  Cloud & Windows Administrator
  
- TCS - System Engineer  July 2024 - July 2025 Hyderabad
+ TCS - System Engineer  June 2022 - July 2025 Hyderabad
  
  • Managed Azure Active Directory, Virtual Machines, Networking, and Azure Key Vaults for secure cloud operations.
  • Configured and maintained Windows Server environments, optimizing system performance and security.
@@ -39,13 +39,7 @@ Methodologies: Agile, Waterfall.
  • Led incident resolution and troubleshooting, improving system efficiency and reducing downtime.
  • Strengthened vulnerability management, minimizing security risks across enterprise systems.
  
- Windows Administrator December 2022 - June 2024
  
- TCS - Assistant System Engineer
- Provided continuous 24/7 monitoring of ServiceNow incidents, promptly escalating issues to the resolution
- team to ensure timely resolution.
- Served as a shared resource across multiple client accounts, overseeing and coordinating the Level 1 support
- team operations.
 
  
  
