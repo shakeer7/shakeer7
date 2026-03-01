@@ -32,9 +32,9 @@ Methodologies: Agile, Waterfall.
 
 💼 Experience:
 
- Cloud & Windows Administrator
+ Cloud Engineer
  
- TCS - System Engineer  June 2022 - July 2025 Hyderabad
+ TCS - IT analyst  June 2022 - July 2025 Hyderabad
  
  • Managed Azure Active Directory, Virtual Machines, Networking, and Azure Key Vaults for secure cloud operations.
  • Configured and maintained Windows Server environments, optimizing system performance and security.
