@@ -17,7 +17,7 @@ Indian School of Business(ISB) 03/2026
  Chaitanya Bharathi Institute Of Technology, Hyderabad • Finance and Analytics • 2027
  
  B.Tech
- SR Engineering College, Warangal • EEE • 08/2019 06/2022 
+ SR University, Warangal • EEE • 08/2019 06/2022 
  
 
 
