@@ -5,10 +5,13 @@
 🧠 About Me
  Aspiring Business Data Analyst with a solid foundation in data analysis, requirement gathering, and visualization tools, and Experienced Azure and
  Windows System Administrator specializing in managing hybrid cloud infrastructures and enterprise IT environments.Proficient in Azure
- services, Windows Server administration, automation.
+ services, Windows Server administration, automation(IaC- Terraform).
 
  
 🎓 Education
+
+  AMPBA APPLIED BUSINESS ANALYTICS 
+Indian School of Business(ISB) 03/2026
 
   MBA
  Chaitanya Bharathi Institute Of Technology, Hyderabad • Finance and Analytics • 2027
