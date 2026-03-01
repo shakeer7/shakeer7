@@ -36,13 +36,19 @@ Methodologies: Agile, Waterfall.
  
  TCS - Analyst  June 2022 - July 2025 Hyderabad
  
- • Managed Azure Active Directory, Virtual Machines, Networking, and Azure Key Vaults for secure cloud operations.
- • Configured and maintained Windows Server environments, optimizing system performance and security.
- • Developed PowerShell automation scripts for patching, monitoring, and infrastructure provisioning.
- • Led incident resolution and troubleshooting, improving system efficiency and reducing downtime.
- • Strengthened vulnerability management, minimizing security risks across enterprise systems.
- 
- 
+ – Managed and administered Microsoft Azure infrastructure including Virtual Machines, Load Balancers, Storage
+Accounts, Key Vault, and Azure AD/Entra ID.
+– Deployed, deleted, and troubleshooted various Azure IaaS and PaaS resources to maintain environment stability and
+scalability.
+– Monitored and optimized cloud performance using Log Analytics, Application Insights, and Azure Monitor.
+– Automated recurring administrative tasks through PowerShell, improving efficiency and reducing manual work.
+– Configured access control, group policies, and conditional access for secure identity management within Azure AD.
+– Implemented backup, disaster recovery, and site recovery strategies for business continuity.
+– Collaborated with teams to manage deployments through Azure DevOps pipelines and infrastructure as code with
+Terraform.
+– Maintained and patched Windows Server and Linux systems ensuring compliance and performance.
+– Handled incidents, service requests, and SLA-driven issue resolutions using ServiceNow.
+– Contributed to cloud migration initiatives by assessing on-prem workloads and transitioning them to Azure.
 
  
  
