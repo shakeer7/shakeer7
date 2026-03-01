@@ -11,7 +11,7 @@
 🎓 Education
 
   AMPBA APPLIED BUSINESS ANALYTICS 
-Indian School of Business(ISB) 03/2026
+Indian School of Business(ISB) 
 
   MBA
  Chaitanya Bharathi Institute Of Technology, Hyderabad • Finance and Analytics • 2027
