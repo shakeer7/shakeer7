@@ -10,7 +10,7 @@
  
 🎓 Education
 
-  AMPBA APPLIED BUSINESS ANALYTICS 
+APPLIED BUSINESS ANALYTICS 
 Indian School of Business(ISB) 
 
   MBA
