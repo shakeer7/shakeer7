@@ -26,7 +26,7 @@ Indian School of Business(ISB)
 Cloud & Infrastructure Management: Azure,  Windows Server,  Active Directory, Azure Active Directory
 Monitoring & Performance Optimization: Datadog, Azure Monitor, System Health Checks, Incident Management
 IT Service Management (ITSM): ServiceNow, SLA Compliance Reports
-MsOffice(Excel, powerpoint), MySql, Python, Powerbi,  Jira, Confluence.
+MsOffice(adv-Excel, powerpoint), MySql, Python, Powerbi,  Jira, Confluence.
 Cloud Platforms: Microsoft Azure
 Methodologies: Agile, Waterfall.
 
