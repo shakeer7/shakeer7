@@ -10,12 +10,7 @@
  
 🎓 Education
 
-APPLIED BUSINESS ANALYTICS 
-Indian School of Business(ISB) 
 
-  MBA
- Chaitanya Bharathi Institute Of Technology, Hyderabad • Finance and Analytics • 2027
- 
  B.Tech
  SR University, Warangal • EEE • 08/2019 06/2022 
  
