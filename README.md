@@ -1,5 +1,5 @@
 ##  👋 Hi, I'm Shakeer Mohammed!
-### 💡 Business Data Analyst | Site reliability Engineer (Azure)| 3+ Years Experience
+### 💡 Site reliability Engineer (Azure)| 3+ Years Experience
 🌎 Hyderabad, India. | 📫 mds.shakeer@gmail.com
 
 🧠 About Me
