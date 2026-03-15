@@ -3,7 +3,7 @@
 🌎 Hyderabad, India. | 📫 mds.shakeer@gmail.com
 
 🧠 About Me
- Aspiring Business Data Analyst with a solid foundation in data analysis, requirement gathering, and visualization tools, and Experienced Azure and
+ solid foundation in data analysis, requirement gathering, and visualization tools, and Experienced Azure and
  Windows System Administrator specializing in managing hybrid cloud infrastructures and enterprise IT environments.Proficient in Azure
  services, Windows Server administration, automation(IaC- Terraform).
 
