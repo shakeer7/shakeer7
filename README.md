@@ -46,7 +46,7 @@ Terraform.
 – Contributed to cloud migration initiatives by assessing on-prem workloads and transitioning them to Azure.
 
  
- 
+ ![](https://komarev.com/ghpvc/?username=shakeer7)
 
 
 <!--
