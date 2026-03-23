@@ -18,7 +18,7 @@
 
 🛠️ Skills
 
-Cloud & Infrastructure Management: Azure,  Windows Server,  Active Directory, Azure Active Directory
+Cloud & Infrastructure Management: Azure,  Windows Server,  Linux, Active Directory, Azure Active Directory
 Monitoring & Performance Optimization: Datadog, Azure Monitor, System Health Checks, Incident Management
 IT Service Management (ITSM): ServiceNow, SLA Compliance Reports
 MsOffice(adv-Excel, powerpoint), MySql, Python, Powerbi,  Jira, Confluence.
