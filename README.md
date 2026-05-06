@@ -1,20 +1,19 @@
 ##  👋 Hi, I'm Shakeer Mohammed!
-### 💡 Site reliability Engineer (Azure)| 3+ Years Experience
+### 💡 Devops Engineer (Azure)| 3+ Years Experience
 🌎 Hyderabad, India. | 📫 mds.shakeer@gmail.com
 
 🧠 About Me
- solid foundation in data analysis, requirement gathering, and visualization tools, and Experienced Azure and
- Windows System Administrator specializing in managing hybrid cloud infrastructures and enterprise IT environments.Proficient in Azure
- services, Windows Server administration, automation(IaC- Terraform).
+ Experienced Azure and Windows, Linux System Administrator specializing in managing hybrid cloud infrastructures and enterprise IT environments. 
+ Proficient in Azure services, Windows Server administration, automation(IaC- Terraform).
 
  
 🎓 Education
 
-Executive Program - Applied Business Analytics
-Indian School of Business -Hyderabad Mar/2026
+ Executive Program - Applied Business Analytics
+ Indian School of Business -Hyderabad Mar/2026
 
-PG -MBA 
-CBIT, Hyderabad Aug/2025-Present
+ PG -MBA 
+ CBIT, Hyderabad Aug/2025-Present
 
  B.Tech
  SR University, Warangal • EEE • 08/2019 06/2022 
