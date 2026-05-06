@@ -10,6 +10,11 @@
  
 🎓 Education
 
+Executive Program - Applied Business Analytics
+Indian School of Business -Hyderabad Mar/2026
+
+PG -MBA 
+CBIT, Hyderabad Aug/2025-Present
 
  B.Tech
  SR University, Warangal • EEE • 08/2019 06/2022 
