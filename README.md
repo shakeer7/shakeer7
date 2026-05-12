@@ -1,12 +1,24 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+
+
 ##  👋 Hi, I'm Shakeer Mohammed!
 ### 💡 Devops Engineer (Azure)| 3+ Years Experience
 🌎 Hyderabad, India. | 📫 mds.shakeer@gmail.com
 
-🧠 About Me
- Experienced Azure and Windows, Linux System Administrator specializing in managing hybrid cloud infrastructures and enterprise IT environments. 
- Proficient in Azure services, Windows Server administration, automation(IaC- Terraform).
+#### About
 
- 
+I’m a passionate Cloud|DevOps Engineer with experience in driving seamless automation, optimizing cloud infrastructures, and accelerating software delivery cycles. 
+
+With a foundation in Application Support, I specialize in building Continuous Integration and Continuous Delivery (CI/CD) pipelines, automating complex deployments, and leveraging cloud services to create scalable and reliable solutions.  
+
+My goal is to help organizations enhance productivity by delivering high-quality, mission-critical software with speed and precision.
+
+I’m committed to continuous improvement, and I'm always eager to learn and explore new technologies that drive innovation in the Cloud, DevOps, AI/ML space.
+
+In addition to my professional work, I actively share through blog posts, and demonstration workshops. I am enthusiastic about delivering business value through innovative software solutions and empowering others in the tech community.
+
 🎓 Education
 
  Executive Program - Applied Business Analytics
@@ -14,40 +26,46 @@
 
  PG -MBA 
  CBIT, Hyderabad Aug/2025-Present
-
+ 
  B.Tech
  SR University, Warangal • EEE • 08/2019 06/2022 
- 
 
 
-🛠️ Skills
 
-Cloud & Infrastructure Management: Azure,  Windows Server,  Linux, Active Directory, Azure Active Directory
-Monitoring & Performance Optimization: Datadog, Azure Monitor, System Health Checks, Incident Management
-IT Service Management (ITSM): ServiceNow, SLA Compliance Reports
-MsOffice(adv-Excel, powerpoint), MySql, Python, Powerbi,  Jira, Confluence.
-Cloud Platforms: Microsoft Azure
-Methodologies: Agile, Waterfall.
+#### Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 
-💼 Experience:
+#### Tools
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 
- Cloud Engineer
- 
- TCS - Analyst  June 2022 - July 2025 Hyderabad
- 
- – Managed and administered Microsoft Azure infrastructure including Virtual Machines, Load Balancers, Storage
-Accounts, Key Vault, and Azure AD/Entra ID.
-– Deployed, deleted, and troubleshooted various Azure IaaS and PaaS resources to maintain environment stability and
-scalability.
-– Monitored and optimized cloud performance using Log Analytics, Application Insights, and Azure Monitor.
-– Automated recurring administrative tasks through PowerShell, improving efficiency and reducing manual work.
-– Configured access control, group policies, and conditional access for secure identity management within Azure AD.
-– Implemented backup, disaster recovery, and site recovery strategies for business continuity.
-– Collaborated with teams to manage deployments through Azure DevOps pipelines and infrastructure as code with
-Terraform.
-– Maintained and patched Windows Server and Linux systems ensuring compliance and performance.
-– Handled incidents, service requests, and SLA-driven issue resolutions using ServiceNow.
-– Contributed to cloud migration initiatives by assessing on-prem workloads and transitioning them to Azure.
+
+#### Development
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+
 
  
  ![](https://komarev.com/ghpvc/?username=shakeer7)
