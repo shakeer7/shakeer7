@@ -30,6 +30,12 @@ In addition to my professional work, I actively share through blog posts, and de
  B.Tech
  SR University, Warangal • EEE • 08/2019 06/2022 
 
+ 💼 Experience:
+
+ Cloud Engineer | Devops Engineer
+ 
+ Tata Consultancy services Ltd.  June 2022 - July 2025 Hyderabad
+
 
 
 #### Languages
