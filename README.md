@@ -41,6 +41,11 @@ In addition to my professional work, I actively share through blog posts, and de
 
   Wedbush Securities
   Supported migration from on-premises to Azure cloud. Worked on cloud setup and migration activities with minimal downtime.
+  
+  📜 Certifications
+
+  - Microsoft Certified: Azure Administrator Associate (AZ-104)
+  - Microsoft Certified: Azure Fundamentals (AZ-900)
 
 
 
