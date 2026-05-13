@@ -24,10 +24,10 @@ In addition to my professional work, I actively share through blog posts, and de
  Executive Program - Applied Business Analytics
  Indian School of Business -Hyderabad Mar/2026
 
- PG -MBA 
+ PG - MBA 
  CBIT, Hyderabad Aug/2025-Present
  
- B.Tech
+ UG -B.Tech
  SR University, Warangal • EEE • 08/2019 06/2022 
 
  💼 Experience:
