@@ -22,7 +22,7 @@ In addition to my professional work, I actively share through blog posts, and de
 🎓 Education
 
  Executive Program - Applied Business Analytics
- Indian School of Business -Hyderabad Mar/2026
+ Indian School of Business Mar/2026
 
  PG - MBA 
  CBIT, Hyderabad Aug/2025-Present
