@@ -37,7 +37,7 @@ In addition to my professional work, I actively share through blog posts, and de
  Tata Consultancy services Ltd.  June 2022 - July 2025 Hyderabad
  
   DevOps Engineer (Azure) – LSEG
-  Worked as Junior DevOps engineer supporting infrastructure, CI/CD pipelines, automation, and monitoring.
+  Worked as DevOps engineer supporting infrastructure, CI/CD pipelines, automation, and monitoring.
 
   Wedbush Securities
   Supported migration from on-premises to Azure cloud. Worked on cloud setup and migration activities with minimal downtime.
