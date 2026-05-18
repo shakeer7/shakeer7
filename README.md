@@ -4,7 +4,7 @@
 
 
 ##  👋 Hi, I'm Shakeer Mohammed!
-### 💡 Devops Engineer (Azure)| 3+ Years Experience in the IT industry 
+### 💡 Devops Engineer (Azure)| 3+ Years of Experience in the IT industry 
 🌎 Hyderabad, India. | 📫 mds.shakeer@gmail.com
 
 #### About
