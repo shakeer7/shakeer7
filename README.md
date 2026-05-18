@@ -4,7 +4,7 @@
 
 
 ##  👋 Hi, I'm Shakeer Mohammed!
-### 💡 Devops Engineer (Azure)| 3+ Years Experience
+### 💡 Devops Engineer (Azure)| 3+ Years Experience in the IT industry 
 🌎 Hyderabad, India. | 📫 mds.shakeer@gmail.com
 
 #### About
@@ -36,7 +36,7 @@ In addition to my professional work, I actively share through blog posts, and de
  
  Tata Consultancy services Ltd.  June 2022 - July 2025 Hyderabad
  
-  Junior DevOps Engineer (Azure) – LSEG
+  DevOps Engineer (Azure) – LSEG
   Worked as Junior DevOps engineer supporting infrastructure, CI/CD pipelines, automation, and monitoring.
 
   Wedbush Securities
