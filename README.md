@@ -7,6 +7,8 @@
 ### 💡 Devops Engineer (Azure)| MLops | 3+ Years of Experience in the IT industry 
 🌎 Hyderabad, India. | 📫 mds.shakeer@gmail.com
 
+Do checkout -- https://github.com/Tracer-Cloud/opensre
+
 #### About
 
 I’m a passionate Cloud|DevOps Engineer with experience in driving seamless automation, optimizing cloud infrastructures, and accelerating software delivery cycles. 
@@ -32,7 +34,7 @@ In addition to my professional work, I actively share through blog posts, and de
 
  💼 Experience:
 
- Cloud Engineer | Devops Engineer
+ Cloud/Devops Engineer
  
  Tata Consultancy services Ltd.  June 2022 - July 2025 Hyderabad
  
