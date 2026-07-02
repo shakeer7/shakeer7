@@ -7,7 +7,7 @@
 ### 💡 Devops Engineer (Azure)| MLops | 3+ Years of Experience in the IT industry 
 🌎 Hyderabad, India. | 📫 mds.shakeer@gmail.com
 
-Do checkout -- https://github.com/Tracer-Cloud/opensre
+Do checkout -- https://github.com/Tracer-Cloud/opensre #contributor
 
 #### About
 
