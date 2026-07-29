@@ -35,7 +35,7 @@ Strong believer in continuous improvement, knowledge sharing, and delivering mea
  
  Tata Consultancy services Ltd.  June 2022 - July 2025 Hyderabad
  
-  DevOps Engineer (Azure) – LSEG
+  DevOps Engineer (Azure) – Follett Corporation
 
   Worked as DevOps engineer supporting infrastructure, CI/CD pipelines, automation, and monitoring.
 
