@@ -23,7 +23,7 @@ Strong believer in continuous improvement, knowledge sharing, and delivering mea
  Executive Program - Applied Business Analytics (MLOps)
  Indian School of Business Mar/2026
 
- PG - MBA 
+ PG - Business operations & analytics (MBA)
  CBIT, Hyderabad Aug/2025-Present
  
  UG - Electrical & Electronics engineering 
