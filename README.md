@@ -20,14 +20,14 @@ Strong believer in continuous improvement, knowledge sharing, and delivering mea
 
 🎓 Education
 
- Executive Program - Applied Business Analytics
+ Executive Program - Applied Business Analytics (MLOps)
  Indian School of Business Mar/2026
 
  PG - MBA 
  CBIT, Hyderabad Aug/2025-Present
  
- UG -B.Tech
- SR University • EEE • 08/2019 06/2022 
+ UG - Electrical & Electronics engineering 
+ SR University 08/2019 06/2022 
 
  💼 Experience:
 
