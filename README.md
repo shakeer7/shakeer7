@@ -10,8 +10,8 @@
 Do checkout -- https://github.com/Tracer-Cloud/opensre 11k+⭐️
 
 #### About
-
-Cloud & DevOps Engineer with experience in AWS, CI/CD, Infrastructure as Code, containerization, and automation. Skilled in building scalable, secure, and reliable cloud solutions that improve deployment speed, system availability, and operational efficiency.
+  
+Cloud & DevOps Engineer with experience in AZURE, AWS, CI/CD, Infrastructure as Code, containerization, and automation. Skilled in building scalable, secure, and reliable cloud solutions that improve deployment speed, system availability, and operational efficiency.
 
 Passionate about DevOps culture, cloud technologies, Kubernetes, and automation. Continuously learning and exploring emerging areas such as AI/ML, MLOps, and platform engineering to solve complex business challenges.
 
