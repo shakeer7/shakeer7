@@ -4,7 +4,8 @@
 
 
 ##  👋 Hi, I'm Shakeer Mohammed!
-### 💡 Devops Engineer (Azure)| MLops | 4+ Years of Experience in the IT industry 
+### 💡**DevOps Engineer (Azure) | MLOps | 4+ Years in Cloud & IT**
+
 🌎 Bangalore, India. | 📫 mds.shakeer@gmail.com
 
 Do checkout -- https://github.com/Tracer-Cloud/opensre 11k+⭐️
