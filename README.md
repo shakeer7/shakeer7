@@ -4,7 +4,7 @@
 
 
 ##  👋 Hi, I'm Shakeer Mohammed!
-### 💡**DevOps Engineer (Azure) | MLOps | 4+ Years in Cloud & IT**
+### 💡** Reliability Engineer | MLOps | 4+ Years in Cloud & IT**
 
 🌎 Bangalore, India. | 📫 mds.shakeer@gmail.com
 
