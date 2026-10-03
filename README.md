@@ -43,6 +43,8 @@ Strong believer in continuous improvement, knowledge sharing, and delivering mea
   Wedbush Securities
 
   Supported migration from on-premises to Azure cloud. Worked on cloud setup and migration activities with minimal downtime.
+
+  https://shakeer7.github.io/azure-migration-blog/
   
   📜 Certifications
 
