@@ -10,49 +10,6 @@
 
 Do checkout -- https://github.com/Tracer-Cloud/opensre 11k+⭐️
 
-#### About
-  
-Cloud & DevOps Engineer with experience in AZURE, AWS, CI/CD, Infrastructure as Code, containerization, and automation. Skilled in building scalable, secure, and reliable cloud solutions that improve deployment speed, system availability, and operational efficiency.
-
-Passionate about DevOps culture, cloud technologies, Kubernetes, and automation. Continuously learning and exploring emerging areas such as AI/ML, MLOps, and platform engineering to solve complex business challenges.
-
-Strong believer in continuous improvement, knowledge sharing, and delivering measurable business value through technology. Actively contribute through technical blogs, workshops, demonstrations, and hands-on projects.
-
-
-🎓 Education
-
- Executive Program - Applied Business Analytics (MLOps)
- Indian School of Business Mar/2026
-
- PG - Business operations & analytics (MBA)
- CBIT, Hyderabad Aug/2025-Present
- 
- UG - Electrical & Electronics engineering 
- SR University 08/2019 06/2022 
-
- 💼 Experience:
-
- Cloud/Devops Engineer
- 
- Tata Consultancy services Ltd.  June 2022 - July 2025 Hyderabad
- 
-  DevOps Engineer (Azure) – Follett Corporation
-
-  Worked as DevOps engineer supporting infrastructure, CI/CD pipelines, automation, and monitoring.
-
-  Wedbush Securities
-
-  Supported migration from on-premises to Azure cloud. Worked on cloud setup and migration activities with minimal downtime.
-
-  https://shakeer7.github.io/azure-migration-blog/
-  
-  📜 Certifications
-
-  - Microsoft Certified: Azure Administrator Associate (AZ-104)
-  - Microsoft Certified: Azure Fundamentals (AZ-900)
-
-
-
 #### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
