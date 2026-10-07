@@ -39,7 +39,7 @@ Do checkout -- https://github.com/Tracer-Cloud/opensre 11k+⭐️
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/>
 </p>
 
 
