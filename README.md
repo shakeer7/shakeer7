@@ -8,7 +8,7 @@
 
 🌎 Bangalore, India. | 📫 mds.shakeer@gmail.com
 
-  Do checkout -- https://github.com/Tracer-Cloud/opensre 11k+⭐️
+  Do checkout -- https://github.com/Tracer-Cloud/opensre 11k+⭐️ | htttps://scandisk.lovable.app 
 
 #### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
